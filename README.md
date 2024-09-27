@@ -11,13 +11,15 @@
 
 ---
 <div id="banner"   align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU3OXhxemE3bGhlcmQxNzEwZHRhdmJ4dHRvZ2hzdDdrdW84czJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EDShIoVYEXZh56JT9y/giphy.gif" height="200"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByNWFubW9sc2ZpbXNwb3J4cXJuYnd2M2ttMHRrbjAyeWNqbm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nAPg6ByO12P3ilpfrY/giphy.gif" height="200"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRjbG4wOGYyaGFyd3MwM3UzdWlvb3djbzQzYjhwZTVkaWhka2pvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU3OXhxemE3bGhlcmQxNzEwZHRhdmJ4dHRvZ2hzdDdrdW84czJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EDShIoVYEXZh56JT9y/giphy.gif" height="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByNWFubW9sc2ZpbXNwb3J4cXJuYnd2M2ttMHRrbjAyeWNqbm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nAPg6ByO12P3ilpfrY/giphy.gif" height="150"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRjbG4wOGYyaGFyd3MwM3UzdWlvb3djbzQzYjhwZTVkaWhka2pvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150"/>
+ <br/>
+ <b margin="0">Barista ➡️ Graphic Designer ➡️ Front End Developer</b>
+</div>
   
-  <b margin="0">Barista ➡️ Graphic Designer ➡️ Front End Developer</b> </div>
-  
-  ---
+---
+
 ### :woman_technologist: About Me :
 My name is Carolina and I am a Graphic Designer & Front End Developer from Sweden.
 
