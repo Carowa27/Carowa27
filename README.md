@@ -25,7 +25,7 @@ My name is Carolina and I am a Graphic Designer & Front End Developer from Swede
 
 - :telescope: Newly graduated open for new opportunities.
 
-- :seedling: Currently learning React Native and working on a NextJs project with [Jennifer](https://github.com/jennifer-mcallister)
+- :seedling: Currently working on a NextJs project with [Jennifer](https://github.com/jennifer-mcallister) and starting up a bigger project.
 
 - :zap: In my spare time I geek out on Pokémon and develop tcg related apps <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tdG1hbWJ4a3A3ZHQzeDAwbWQyMXF5dXNoZDQ3bXV2MzdocnJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" width="30"/>
 
