@@ -52,6 +52,6 @@ My name is Carolina and I am a Graphic Designer & Front End Developer from Swede
 --- 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carowa27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carowa27&layout=compact&theme=tokyonight&hide_border=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carowa27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=250&card_height=165&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
