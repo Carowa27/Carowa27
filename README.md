@@ -15,7 +15,7 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByNWFubW9sc2ZpbXNwb3J4cXJuYnd2M2ttMHRrbjAyeWNqbm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nAPg6ByO12P3ilpfrY/giphy.gif" height="150"/>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRjbG4wOGYyaGFyd3MwM3UzdWlvb3djbzQzYjhwZTVkaWhka2pvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150"/>
  <br/>
- <b margin="0">Barista ➡️ Graphic Designer ➡️ Front End Developer</b>
+ <b margin="0">Barista ➡️ Graphic Designer ➡️ Front End Developer ➡️ Full Stack Developer</b>
 </div>
   
 ---
@@ -23,9 +23,9 @@
 ### :woman_technologist: About Me :
 My name is Carolina and I am a Graphic Designer & Front End Developer from Sweden.
 
-- :telescope: Newly graduated open for new opportunities.
+- :telescope: Right now I am studying to Full Stack Developer and am really excited!
 
-- :seedling: Currently working on a NextJs project with [Jennifer](https://github.com/jennifer-mcallister) and starting up a bigger project.
+- :seedling: Newest project developed by me and [Jennifer](https://github.com/jennifer-mcallister) up and running [Hubnet](https://www.hubnet.space/).
 
 - :zap: In my spare time I geek out on Pokémon and develop tcg related apps <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tdG1hbWJ4a3A3ZHQzeDAwbWQyMXF5dXNoZDQ3bXV2MzdocnJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" width="30"/>
 
@@ -49,9 +49,4 @@ My name is Carolina and I am a Graphic Designer & Front End Developer from Swede
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 </div>
 
---- 
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carowa27&layout=compact&theme=tokyonight&hide_border=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Carowa27&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=250&card_height=165&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
