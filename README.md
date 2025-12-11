@@ -31,7 +31,7 @@ My name is Carolina and I am a Graphic Designer & Front End Developer from Swede
 
 - :family: Husband, daughter & son <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z1emg5Mml4cTV6ZjcyYTNycTV5b2l6enVpbjlhajhhZGw2cmh2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fLPFNWDptCOClH0rr1/giphy.gif" width="30"/>
 
-- :mailbox: How to reach me: <img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email" link="https://carolina.warntorp.se/contact"/>
+- :mailbox: How to reach me: <a href="https://carolina.warntorp.se/contact"><img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email"/><a/>
 
 ---
 
