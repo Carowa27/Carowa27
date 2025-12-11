@@ -1,9 +1,9 @@
 <div id="header" align="center">
  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtxMGQzNG96MHJkNWhpODdqM3AwNDk2d3dpZGszd3ZxYzI2enRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/8Z1lvDbRh3rOgaM2Bb/giphy.gif" width="150"/>
 <div id="badges" >
-   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" link="https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcarolina-warntorp%2F"/>
- <img src="https://img.shields.io/badge/Portfolio-5d5787?style=flat&logoColor=white" alt="Website Portfolio badge" link="https%3A%2F%2Fcarolina.warntorp.se"/>
-   <img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email" link="https%3A%2F%2Fcarolina.warntorp.se%2Fcontact"/>
+   <a href="https://www.linkedin.com/carolina-warntorp/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
+ <a href="http://carolina.warntorp.se"><img src="https://img.shields.io/badge/Portfolio-5d5787?style=flat&logoColor=white" alt="Website Portfolio badge"/><a/>
+   <a href="https://carolina.warntorp.se/contact"><img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email"/><a/>
 
 </div></div>
 
