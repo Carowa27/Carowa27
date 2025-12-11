@@ -29,7 +29,7 @@ My name is Carolina and I am a Graphic Designer & Front End Developer from Swede
 
 - :zap: In my spare time I geek out on Pokémon and develop tcg related apps <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tdG1hbWJ4a3A3ZHQzeDAwbWQyMXF5dXNoZDQ3bXV2MzdocnJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" width="30"/>
 
-- :family: Husband and daughter <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z1emg5Mml4cTV6ZjcyYTNycTV5b2l6enVpbjlhajhhZGw2cmh2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fLPFNWDptCOClH0rr1/giphy.gif" width="30"/>
+- :family: Husband, daughter & son <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z1emg5Mml4cTV6ZjcyYTNycTV5b2l6enVpbjlhajhhZGw2cmh2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fLPFNWDptCOClH0rr1/giphy.gif" width="30"/>
 
 - :mailbox: How to reach me: <img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email" link="https%3A%2F%2Fcarolina.warntorp.se%2Fcontact"/>
 
