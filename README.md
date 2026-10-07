@@ -4,9 +4,9 @@
 
 🟢 **Available for internships & junior roles**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-carolina.warntorp.se-e2946e?style=for-the-badge&logoColor=white)](https://carolina.warntorp.se) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-carolina.warntorp.se-6c7662?style=for-the-badge)](https://carolina.warntorp.se) 
 [![Email](https://img.shields.io/badge/Email-Say_hello-31381f?style=for-the-badge&logoColor=white)](mailto:carolina.warntorp@outlook.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina_Warntorp-6c7662?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-warntorp/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina_Warntorp-B9C2A6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-warntorp/)
 
 </div>
 
@@ -47,12 +47,12 @@ I'm a graphic designer and front end developer from Sweden 🇸🇪, currently s
 ### 🌐 [Hubnet](https://www.hubnet.space/)
 An independent broadcasting platform with shows, producer profiles and a storefront, **live in production**. Built as a team of 2.
 `Fullstack` `Next.js` `TypeScript` `GSAP` `Styled Components` `Figma`\
-[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-adb3a6?style=for-the-badge)](https://www.hubnet.space/)
+[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-B9C2A6?style=for-the-badge)](https://www.hubnet.space/)
 
 ### 🕵️ [Nocturne](https://github.com/Carowa27/murder-mystery)
 A multiplayer murder-mystery game featuring team-based investigation flows. Built as a team of 3 over a 3 week sprint.\
 `Fullstack` `Next.js` `Typescript` `Supabase` `Tailwindcss` `PostgreSQL`\
-[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-adb3a6?style=for-the-badge)](https://murder-mystery-rust.vercel.app)  [![Code](https://img.shields.io/badge/Code%20%E2%86%97-adb3a6?style=for-the-badge)](https://github.com/Carowa27/murder-mystery)
+[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-B9C2A6?style=for-the-badge)](https://murder-mystery-rust.vercel.app)  [![Code](https://img.shields.io/badge/Code%20%E2%86%97-B9C2A6?style=for-the-badge)](https://github.com/Carowa27/murder-mystery)
 
 ➜ **More on my [portfolio](https://carolina.warntorp.se)**
 
