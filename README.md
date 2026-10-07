@@ -1,7 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c7662&height=180&section=header&text=Carolina&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=designer%20who%20ships%20the%20code&descSize=18&descAlignY=58" alt="Carolina, designer who ships the code" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c7662&height=200&section=header&text=Carolina&fontSize=44&fontColor=ffffff&fontAlignY=28&desc=designer%20who%20ships%20the%20code&descSize=18&descAlignY=48" alt="Carolina, designer who ships the code" />
 <div align="center">
-
 <h3 align="center">☕ Barista ➜ 🎨 Graphic Designer ➜ 🖥️ Front End Developer ➜ 🚀 Full Stack Developer</h3>
 
 🟢 **Available for internships & junior roles**
