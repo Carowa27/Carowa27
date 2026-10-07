@@ -1,52 +1,79 @@
-<div id="header" align="center">
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmtxMGQzNG96MHJkNWhpODdqM3AwNDk2d3dpZGszd3ZxYzI2enRmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/8Z1lvDbRh3rOgaM2Bb/giphy.gif" width="150"/>
-<div id="badges" >
-   <a href="https://www.linkedin.com/in/carolina-warntorp/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/><a/>
- <a href="http://carolina.warntorp.se"><img src="https://img.shields.io/badge/Portfolio-5d5787?style=flat&logoColor=white" alt="Website Portfolio badge"/><a/>
-   <a href="https://carolina.warntorp.se/contact"><img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email"/><a/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c7662&height=180&section=header&text=Carolina&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=designer%20who%20ships%20the%20code&descSize=18&descAlignY=58" alt="Carolina, designer who ships the code" />
 
-</div></div>
+<div align="center">
 
+<h3 align="center">☕ Barista ➜ 🎨 Graphic Designer ➜ 🖥️ Front End Developer ➜ 🚀 Full Stack Developer</h3>
 
+🟢 **Available for internships & junior roles**
 
----
-<div id="banner"   align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU3OXhxemE3bGhlcmQxNzEwZHRhdmJ4dHRvZ2hzdDdrdW84czJ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EDShIoVYEXZh56JT9y/giphy.gif" height="150"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDByNWFubW9sc2ZpbXNwb3J4cXJuYnd2M2ttMHRrbjAyeWNqbm5tNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nAPg6ByO12P3ilpfrY/giphy.gif" height="150"/>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTRjbG4wOGYyaGFyd3MwM3UzdWlvb3djbzQzYjhwZTVkaWhka2pvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" height="150"/>
- <br/>
- <b margin="0">Barista ➡️ Graphic Designer ➡️ Front End Developer ➡️ Full Stack Developer</b>
-</div>
-  
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-carolina.warntorp.se-e2946e?style=for-the-badge&logoColor=white)](https://carolina.warntorp.se) 
+[![Email](https://img.shields.io/badge/Email-Say_hello-31381f?style=for-the-badge&logoColor=white)](mailto:carolina.warntorp@outlook.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina_Warntorp-6c7662?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-warntorp/)
 
-### :woman_technologist: About Me :
-My name is Carolina and I am a Graphic Designer & Front End Developer from Sweden.
-
-- :telescope: Right now I am studying to Full Stack Developer and am really excited!
-
-- :seedling: Newest project developed by me and [Jennifer](https://github.com/jennifer-mcallister) up and running [Hubnet](https://www.hubnet.space/).
-
-- :zap: In my spare time I geek out on Pokémon and develop tcg related apps <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5tdG1hbWJ4a3A3ZHQzeDAwbWQyMXF5dXNoZDQ3bXV2MzdocnJudCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Sd9XrDFZZ0Q0OXAdJM/giphy.gif" width="30"/>
-
-- :family: Husband, daughter & son <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2Z1emg5Mml4cTV6ZjcyYTNycTV5b2l6enVpbjlhajhhZGw2cmh2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fLPFNWDptCOClH0rr1/giphy.gif" width="30"/>
-
-- :mailbox: How to reach me: <a href="https://carolina.warntorp.se/contact"><img src="https://img.shields.io/badge/Email-797F78?style=flat&logoColor=white" alt="Email"/><a/>
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJS" alt="NextJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="VueJS" alt="VueJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
 </div>
 
+---
 
+<img src="assets/about-me.svg" alt="About me" />
+
+I'm a graphic designer and front end developer from Sweden 🇸🇪, currently studying to become a full stack developer. I take work from the first sketch to the last deployed line: I started in print and identity, moved into building interfaces, and I'm now closing the loop toward the server.
+
+- 🔭 Studying **Full Stack Development**
+- 🌱 Latest launch: **[Nocturne](https://murder-mystery-rust.vercel.app/)**, built together with [Steven](https://github.com/stevenlomon) & [Sebastian](https://github.com/csschef)
+- 👪 Husband, daughter & son keep life (and my commit history) interesting
+
+---
+
+<img src="assets/capabilities.svg" alt="Capabilities" />
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,html,css,nodejs,express,php,mongodb,mysql,supabase,git&perline=14" alt="Tech stack" />
+
+</div>
+
+<div align="left">
+
+| | |
+| --- | --- |
+| 🎨 **Design** | Figma, Affinity Suite, brand identity, typography, print design |
+| 🖥️ **Frontend** | React, TypeScript, Next.js, responsive UI, GSAP |
+| 🚀 **Fullstack** *(learning)* | Node.js, Express, PHP, MongoDB, SQL, Supabase, REST APIs, integrations |
+
+</div>
+
+---
+
+<img src="assets/selected-work.svg" alt="Selected work" />
+
+### 🌐 [Hubnet](https://www.hubnet.space/)
+An independent broadcasting platform with shows, producer profiles and a storefront, **live in production**. Built as a team of 2.
+`Fullstack` `Next.js` `TypeScript` `GSAP` `Styled Components` `Figma`\
+[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-adb3a6?style=for-the-badge)](https://www.hubnet.space/)
+
+### 🕵️ [Nocturne](https://github.com/Carowa27/murder-mystery)
+A multiplayer murder-mystery game featuring team-based investigation flows. Built as a team of 3 over a 3 week sprint.\
+`Fullstack` `Next.js` `Typescript` `Supabase` `Tailwindcss` `PostgreSQL`\
+[![Live site](https://img.shields.io/badge/Live%20site%20%E2%86%97-adb3a6?style=for-the-badge)](https://murder-mystery-rust.vercel.app)  [![Code](https://img.shields.io/badge/Code%20%E2%86%97-adb3a6?style=for-the-badge)](https://github.com/Carowa27/murder-mystery)
+
+➜ **More on my [portfolio](https://carolina.warntorp.se)**
+
+---
+
+<img src="assets/github-stats.svg" alt="GitHub stats" />
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Carowa27&hide_border=true&theme=transparent&title_color=6c7662&show_icons=true&icon_color=6c7662&text_color=e6edf3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Carowa27&hide_border=true&theme=transparent&title_color=6c7662&show_icons=true&icon_color=6c7662&text_color=24292f" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Carowa27&hide_border=true&theme=transparent&title_color=6c7662&layout=compact&text_color=e6edf3" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carowa27&hide_border=true&theme=transparent&title_color=6c7662&layout=compact&text_color=24292f" alt="Top languages" />
+</picture>
+
+</div>
+
+---
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6c7662&height=180&section=footer&text=Let's%20build%20something%20together%20🌿&fontSize=28&fontColor=ffffff&fontAlignY=62&desc=Open%20to%20internships%2C%20junior%20frontend%20roles%20and%20freelance%20design&descSize=16&descAlignY=80" alt="Let's build something together. Open to internships, junior frontend roles and freelance design." />
