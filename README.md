@@ -14,11 +14,11 @@
 
 <img src="assets/about-me.svg" alt="About me" />
 
-I'm a graphic designer and front end developer from Sweden 🇸🇪, currently studying to become a full stack developer. I take work from the first sketch to the last deployed line: I started in print and identity, moved into building interfaces, and I'm now closing the loop toward the server.
+I'm a graphic designer and front end developer from Sweden 🇸🇪, currently studying to become a full stack developer. I take work from the first sketch to the last deployed line. I started in print and identity, moved into building interfaces, and I'm now closing the loop toward the server.
 
 - 🔭 Studying **Full Stack Development**
 - 🌱 Latest launch: **[Nocturne](https://murder-mystery-rust.vercel.app/)**, built together with [Steven](https://github.com/stevenlomon) & [Sebastian](https://github.com/csschef)
-- 👪 Husband, daughter & son keep life (and my commit history) interesting
+- 👪 Husband, daughter & son keep life (and my commit history) interesting.
 
 ---
 
